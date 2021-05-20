@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0f2227-9215-41e0-b154-a915e05ee190" name="Default Changelist" comment="第一次样例修改">
+    <list default="true" id="cc0f2227-9215-41e0-b154-a915e05ee190" name="Default Changelist" comment="第二次样例修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gitdemo/GitdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gitdemo/GitdemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621431206845</updated>
       <workItem from="1621431208115" duration="571000" />
-      <workItem from="1621431793069" duration="2906000" />
+      <workItem from="1621431793069" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="第一次样例修改">
       <created>1621432327832</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621432327832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次样例修改">
+      <created>1621476588777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621476588777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次样例修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次样例修改" />
+    <MESSAGE value="第二次样例修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次样例修改" />
   </component>
 </project>
